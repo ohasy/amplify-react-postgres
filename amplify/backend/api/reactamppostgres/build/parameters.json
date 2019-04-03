@@ -1,0 +1,6 @@
+{
+    "AppSyncApiName": "reactamppostgres",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "S3DeploymentBucket": "react-amplify-20190403130951-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/27b7cef4134c3fd336446384d9b1c23ac8bc5f1b"
+}
